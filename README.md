@@ -18,7 +18,8 @@ Para cada semana, existe uma pasta de `resoluções/`. Você deve criar uma subp
 └── 📁 resoluções
     ├── 📁 vanel
     │   ├── 📄 q1.py
-    │   └── 📄 Questões.md
+    │   └── 📄 q2.c
+    │   └── 📄 q3.cpp
     │
     └── 📁 seu-nome  <-- Crie a sua pasta aqui
         ├── 📄 q1.py
