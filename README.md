@@ -20,7 +20,7 @@ Para cada semana, existe uma pasta de `resoluções/`. Você deve criar uma subp
     │   ├── 📄 q1.py
     │   └── 📄 Questões.md
     │
-    └── 📁 seu-nome-aqui  <-- Crie a sua pasta aqui!
+    └── 📁 seu-nome  <-- Crie a sua pasta aqui
         ├── 📄 q1.py
         └── 📄 q2.py
 ```
