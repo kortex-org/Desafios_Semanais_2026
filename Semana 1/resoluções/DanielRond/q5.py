@@ -2,5 +2,5 @@
 #1²+1²==R²
 x = float(input("X:"))
 y = float(input("Y:"))
-dentro = (x<=1 and x>=0) and (y<=1 and y>=0)
+dentro = (x>=0) and (y>=0) and (x**2+y**2<=1)
 print(int(dentro))
