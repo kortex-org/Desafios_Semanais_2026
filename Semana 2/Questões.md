@@ -81,6 +81,7 @@ Faça um programa que receba a hora do início e a hora final de uma partida de 
 
 Entrada:
 - horário de início (horas e minutos)	
-- horário de término (horas e minutos)  
+- horário de término (horas e minutos)
+
 Saída:
 - Duração do jogo (horas e minutos)
