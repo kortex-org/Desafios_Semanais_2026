@@ -80,8 +80,23 @@ Restrições
 Faça um programa que receba a hora do início e a hora final de uma partida de Super Power Flash Turbo Dragon. Cada hora é composta por duas variáveis inteiras: hora e minuto.   Calcule e mostre a duração do jogo (horas e minutos), sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que ele pode iniciar-se em um dia e terminar no dia seguinte.  
 
 Entrada:
-- horário de início (horas e minutos)	
+- horário de início (horas e minutos)
 - horário de término (horas e minutos)
+
+## Questão 12 
+Faça um programa que receba um valor inteiro positivo correspondente a altura de um triângulo isósceles, com essa entrada em mão é imprimido na saída padrão um triângulo com a especificação definida. **OBS:** Esse programa deve ser feito utilizando o conceito de estruturas de repetição.
+
+Entrada:
+- 5
+
+Saída:
+    *
+   ***
+  *****
+ *******
+*********
+
+
 
 Saída:
 - Duração do jogo (horas e minutos)
