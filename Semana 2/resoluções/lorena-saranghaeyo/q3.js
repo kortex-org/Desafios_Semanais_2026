@@ -8,6 +8,6 @@ const descontos = {
 
 const formaPagamento = "credito";
 const desconto = descontos[formaPagamento] ?? 0; // nullish coalescing operator, conheci hoje 💀
-const valorFinal = valorCompra - (valorCompra * (desconto / 100))
+const valorFinal = valorCompra - (valorCompra * (desconto / 100));
 
-console.log(`Forma de Pagamento: ${formaPagamento}\nValor: ${valorCompra}\nValor + Desconto = ${valorFinal}`)
+console.log(`Forma de Pagamento: ${formaPagamento}\nValor: ${valorCompra}\nValor + Desconto = ${valorFinal}`);
