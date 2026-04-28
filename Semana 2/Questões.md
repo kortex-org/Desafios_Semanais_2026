@@ -83,6 +83,9 @@ Entrada:
 - horário de início (horas e minutos)
 - horário de término (horas e minutos)
 
+Saída:
+- Duração do jogo (horas e minutos)
+
 ## Questão 12 
 Faça um programa que receba um valor inteiro positivo correspondente a altura de um triângulo isósceles, com essa entrada em mão é imprimido na saída padrão um triângulo com a especificação definida. **OBS:** Esse programa deve ser feito utilizando o conceito de estruturas de repetição.
 
@@ -99,5 +102,4 @@ Saída:
 ````
 
 
-Saída:
-- Duração do jogo (horas e minutos)
+
